@@ -35,6 +35,16 @@ public class AtmApplication {
 					System.out.println("You don't have enough money to withdraw!");
 				}
 				break;
+			case 2:
+				System.out.println("deposit");
+				break;
+			case 3:
+				System.out.println("checking");
+				break;
+			case 4:
+				System.out.println("exit");
+				break;
+
 		}
 	}
 
